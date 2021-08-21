@@ -10,6 +10,7 @@ CS 101 - Fundamentals of Computer Science I
 
 
 >Class times:
+
 > Section | Location | Times
 > ------- | -------- | -----
 > 101 | KEC 119 | W/F 8:00am - 9:15am 
@@ -20,8 +21,7 @@ Instructors:
 
 > Section(s)|Office| Instructor| Office hours
 > ---------- | ---------- | ------------- | ---------- 
-> 101 & 103 |KEC 115 (815-6547)| Krishna Kambhampaty <kkambhampaty@ycp.edu> | Wednesday, Friday: 9:30am - 11:30am
->			|				   |											| Tuesday, Thursday 12:15pm - 1:15pm
+> 101 & 103 |KEC 115 (815-6547)| Krishna Kambhampaty <kkambhampaty@ycp.edu> | Wednesday, Friday: 9:30am - 11:30am & Tuesday, Thursday 12:15pm - 1:15pm
 > 102       |				   | Deepti Jindal <djindal@ycp.edu> 			| Wednesday,Friday 11:15 - 12:15pm
 
 
