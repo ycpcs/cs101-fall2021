@@ -14,7 +14,7 @@ All information about the course will be posted here.
 <div>
 <ul class="multicol-links">
   <li><a href="syllabus.html">Syllabus</a></li>
-  <li><a href="schedule.html">Schedule</a></li>
+  <li><a href="schedule_new.html">Schedule</a></li>
   <li><a href="success.html">How to succeed in CS 101</a></li>
   <li><a href="assign/index.html">Assignments</a></li>
   <li><a href="labs/index.html">Labs</a></li>
