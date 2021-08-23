@@ -5,7 +5,8 @@ title: "Tutoring"
 
 # Tutoring
 
-Student tutors will be available both in class (during lab activities) and in evening drop-in sessions.  Tutoring is expected to start on Wednesday, September, 4, 2019.
+Student tutors will be available both in class (during lab activities) and in evening drop-in sessions.  
+<!--Tutoring is expected to start on Wednesday, September, 4, 2019. -->
 
 ## Asking Questions
 

@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 5: Struct Exercises"
 ---
 
-Due: **Friday, November 15th** by 11:59 PM
+Due: **Wednesday, November 17th** by 11:59 PM
 
 <div class="callout">
 Note that late submissions will <em>not</em> be accepted for this assignment.

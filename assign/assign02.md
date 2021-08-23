@@ -6,11 +6,11 @@ title: "Assignment 2: Calendar"
 **Due dates**:
 
 * Milestone 1:
-    * Design due: **Wednesday, September 13th** in class
-    * Code due: **Thursday, September 19th** by 11:59 PM
+    * Design due: **Friday, September 17th** in class
+    * Code due: **Wednesday, September 22nd** by 11:59 PM
 * Milestone 2:
-    * Design due: **Wednesday, September 25th** in at the beginning of class (I'll collect, scan, and return)
-    * Code due: **Wednesday, October 2nd** by 11:59 PM
+    * Design due: **Wednesday, September 29th** in at the beginning of class (I'll collect, scan, and return)
+    * Code due: **Wednesday, Oct 6th* by 11:59 PM
 
 
 Getting Started
