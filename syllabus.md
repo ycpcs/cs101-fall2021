@@ -131,7 +131,7 @@ Violations of the policy, such as failing to cite collaborators or electronic co
 
 ### Exams
 
-**Exams will be closed-book, closed-notes.** They will last approximately 60 minutes and will be administered at the beginning of the class period. **Exams will include a programming component.** The last half of the class may be used for instruction and/or laboratory work. A total of five exams will be administered. The lowest scoring exam will be dropped.
+**Exams will be closed-book, closed-notes.** They will last approximately 60 minutes and will be administered at the beginning of the class period. **Exams will include a programming component.** The last half of the class may be used for instruction and/or laboratory work. A total of four exams will be administered. The lowest scoring exam will be dropped.
 
 ### In-class laboratories
 
