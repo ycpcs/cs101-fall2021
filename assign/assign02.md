@@ -10,7 +10,7 @@ title: "Assignment 2: Calendar"
     * Code due: **Wednesday, September 22nd** by 11:59 PM
 * Milestone 2:
     * Design due: **Wednesday, September 29th** in at the beginning of class (I'll collect, scan, and return)
-    * Code due: **Wednesday, Oct 6th* by 11:59 PM
+    * Code due: **Wednesday, Oct 6th** by 11:59 PM
 
 
 Getting Started
