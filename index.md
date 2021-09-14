@@ -39,6 +39,14 @@ All information about the course will be posted here.
 ## News
 
 * **Aug 24** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html).
+* **Sep 8** &mdash; The Design for [Assignment 1](assign/assign01.html) is due.
+* **Sep 14** &mdash; The code for [Assignment 1](assign/assign01.html) is due by 11:59PM.
+* **Sep 17** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 1** is due in class
+* **Sep 22** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 1** is due by 11:59PM
+* **Sep 29** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 2** is due in class
+* **Oct 6** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 2** is due by 11:59PM
+
+
 
 <!--
 * **Jan 23** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html) and a description of a [research study](study.html) being conducted this semester.

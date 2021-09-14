@@ -10,7 +10,7 @@ title: "Assignment 2: Calendar"
     * Code due: **Wednesday, September 22nd** by 11:59 PM
 * Milestone 2:
     * Design due: **Wednesday, September 29th** in at the beginning of class (I'll collect, scan, and return)
-    * Code due: **Wednesday, Oct 6th** by 11:59 PM
+    * Code due: **Wednesday, October 6th** by 11:59 PM
 
 
 Getting Started
@@ -154,9 +154,9 @@ Any Julian Day Number can be taken modulo 7 in order to determine which day of t
 
 ### Deliverables for Milestone 1
 
-The [design artifact](../design-template.pdf) for Milestone 1 is due at the beginning class on **Wednesday, September 13th**.  Make sure that you fill out the "Strategy" and "Control flow sketch" sections of the design template.
+The [design artifact](../design-template.pdf) for Milestone 1 is due at the beginning class on **Friday, September 17th**.  Make sure that you fill out the "Strategy" and "Control flow sketch" sections of the design template.
 
-The code for Milestone 1 should be submitted to Marmoset (using the command `make submit_ms1`) by the end of the day on **Thursday, September 19th**.
+The code for Milestone 1 should be submitted to Marmoset (using the command `make submit_ms1`) by the end of the day on **Wednesday, September 22nd**.
 
 ## Milestone 2
 
@@ -211,9 +211,9 @@ Consider using multiple counters for which day is currently being printed and fo
 
 ### Deliverables for Milestone 2
 
-The [design artifact](../design-template.pdf) for Milestone 2 is due at the beginning class on **Friday, September 20th**.  Make sure that you fill out the "Strategy" and "Control flow sketch" sections of the design template.
+The [design artifact](../design-template.pdf) for Milestone 2 is due at the beginning class on **Wednesday, September 29th**.  Make sure that you fill out the "Strategy" and "Control flow sketch" sections of the design template.
 
-The code for Milestone 2 should be submitted to Marmoset (using the command `make submit_ms2`) by the end of the day on **Saturday, September 28th**.
+The code for Milestone 2 should be submitted to Marmoset (using the command `make submit_ms2`) by the end of the day on **Wednesday, October 6th**.
 
 Grading
 =======
