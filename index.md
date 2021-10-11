@@ -45,7 +45,7 @@ All information about the course will be posted here.
 * **Sep 22** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 1** is due by 11:59PM
 * **Sep 29** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 2** is due in class
 * **Oct 6** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 2** is due by 11:59PM
-* **Oct 9 - 12** &mdash; **NO CLASS - WINTER BREAK**
+* **Oct 9 - 12** &mdash; **NO CLASS - Fall BREAK**
 * **Oct 15** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 1** is due by 11:59PM
 * **Oct 22** &mdash; The design for [Assignment 3](assign/assign03.html) **Milestone 2** is due in class
 * **Oct 29** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 2** is due by 11:59PM
