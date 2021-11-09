@@ -31,6 +31,23 @@ Oct 11 Week 8  | [Lecture 12: Functions, top-down design](lectures/lecture12.htm
 Week 8 | [Lecture 13: Functions that return a value](lectures/lecture13.html)<br>Chapter 7 through *Checking Function Arguments* | Week10 &rarr; [SumBetween](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1315)\*, [MaxOfThree](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1316)\*, [feetToMeters](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1333)\*, [inRange](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1334)\*, [ContainersNeeded](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1345), [WeeklyPay](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1346), [diamond](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1335)![gold star](img/goldstar-tiny.png), [check\_if\_armstrong](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1354)![gold star](img/goldstar-tiny.png) | 7.7
 Oct 25 Week 10 | *Exam 2 Review* | | 
 Oct 25 Week 10 | **Exam 2** | |
+Nov 1 Week 11 | [Lecture 16: Struct types](lectures/lecture16.html)<br>Chapter 8, through *Using Structures in Expressions*<br>| Week12 &rarr; [find\_midpoint](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1362)\* | &mdash;
+Week 11 | [Lecture 17: Using structs with functions](lectures/lecture17.html)<br>Chapter 8, through *Initializing Structures* | Week12 &rarr; [find\_midpoint](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1362)\* | &mdash;
+Nov 8 Week 12| [Lecture 15: Pointers, reference parameters](lectures/lecture15.html)<br>Chapter 10 through *Using Pointers in Expressions* <br /> | Week13 &rarr; [AddEmUp](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1317)\*, [area of Rectangle](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1318)\*, [quadrant](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1344)\* | &mdash;
+Week 12| [Lecture 18: Pointers to structures](lectures/lecture18.html)<br>Chapter 10, *Working with Pointers and Structures* <br /> [Lecture 19: Composition](lectures/lecture19.html)<br>Chapter 8, *Structures Containing Structures* | &mdash; | &mdash;| Week13 &rarr; [AddEmUp](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1317)\*, [area of Rectangle](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1318)\*, [quadrant](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1344)\* | &mdash;
+Nov 15 Week 13  | [Lecture 14: Arrays and functions](lectures/lecture14.html)<br>Chapter 7 through *Multidimensional Variable-Length Arrays and Functions* | Week15 &rarr; [ArraySum](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1312)\*, [IsAscending](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1314)\*, [countOdd](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1313)\*, [Min Array Entry](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1348) | &mdash;
+Week 13 | [Lecture 20: Arrays of structures](lectures/lecture20.html)<br>Chapter 8, *Arrays of Structures* | &mdash; | &mdash;
+Nov 22 Week 14 | [Lecture 20: Arrays of structures](lectures/lecture20.html)<br>Chapter 8, *Arrays of Structures* | &mdash; | &mdash;
+Nov 24 - 28 Week 14| **No Classes - Thanksgiving Holidays |  |
+Nov 29 Week 14 | *Exam 3 Review* | | 
+Thu, Dec 2 | **Midterm Exam 3 for Section 103** |  |
+Fri, Dec 3 | **Midterm Exam 3 for Section 101 & 102** |  |
+Thu, Dec 09| **Final Exam for Section 103 @ 10:15 AM - 12:15 PM**|  |
+Fri, Dec 10| **Final Exam for Section 101 @ 8:00 AM - 10:00 AM**|  |
+Fri, Dec 10| **Final Exam for Section 102 @ 10:15 AM - 12:15 PM**|  |
+
+
+<!--
 Nov 1 Week 11 | [Lecture 16: Struct types](lectures/lecture16.html)<br>Chapter 8, through *Using Structures in Expressions*<br>[Lecture 17: Using structs with functions](lectures/lecture17.html)<br>Chapter 8, through *Initializing Structures* | Week12 &rarr; [find\_midpoint](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1362)\* | &mdash;
 Week 11| [Lecture 15: Pointers, reference parameters](lectures/lecture15.html)<br>Chapter 10 through *Using Pointers in Expressions* <br /> [Lecture 18: Pointers to structures](lectures/lecture18.html)<br>Chapter 10, *Working with Pointers and Structures* | Week13 &rarr; [AddEmUp](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1317)\*, [area of Rectangle](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1318)\*, [quadrant](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1344)\* | &mdash;
 Nov 8 Week 12  | [Lecture 19: Composition](lectures/lecture19.html)<br>Chapter 8, *Structures Containing Structures* | &mdash; | &mdash;
@@ -43,7 +60,7 @@ Week 13 | **Exam 3** |  |
 Nov 22 Week 14| Thanksgiving Holidays |  |
 Number 29 Week 15 | Final Exam Review |  |
 Week 15 |Final Exam |  |
-
+-->
 
 <!-- vim:set wrap: -->
 <!-- vim:set linebreak: -->

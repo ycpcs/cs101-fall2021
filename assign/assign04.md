@@ -5,7 +5,7 @@ title: "Assignment 4: Roulette"
 
 **Due dates**:
 
-* Code due: **Wednesday, November 3rd** by 11:59 PM
+* Code due: **Friday, November 12th** by 11:59 PM
 
 Getting Started
 ===============
