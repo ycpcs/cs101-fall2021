@@ -3,9 +3,9 @@ layout: default
 title: "Assignment 6: Chomp, Chomp, Chomp"
 ---
 
-**Milestone 1: Due Tuesday, November 23rd by 11:59 PM**
+**Milestone 1: Due Tuesday, November 30th by 11:59 PM**
 
-**Milestone 2: Due Wednesday, December 1st by 11:59 PM**
+**Milestone 2: Due Wednesday, December 7th by 11:59 PM**
 
 Getting Started
 ===============
